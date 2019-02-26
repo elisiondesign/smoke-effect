@@ -1,5 +1,9 @@
 # Smoke Effect
 Realistic smoke effect using html canvas.
+
+## Example
+![https://github.com/elisiondesign/smoke-effect/raw/master/example/Feb-26-2019%2009-52-17.gif](https://github.com/elisiondesign/smoke-effect/raw/master/example/Feb-26-2019%2009-52-17.gif)
+
 ## Usage
 ```html
 <canvas id="canvase"></canvas>
