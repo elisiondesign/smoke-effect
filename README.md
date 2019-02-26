@@ -1,7 +1,9 @@
 # Smoke Effect
-Realistic smoke effect using html canvas.
+Realistic smoke effect using html canvas. 
 
 ## Example
+(Note that the used example is highly degraded when using GIF format. The real effect is nearly perfect.)
+
 ![https://github.com/elisiondesign/smoke-effect/raw/master/example/Feb-26-2019%2009-52-17.gif](https://github.com/elisiondesign/smoke-effect/raw/master/example/Feb-26-2019%2009-52-17.gif)
 
 ## Usage
