@@ -6,9 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "parcel build src/smoke.js",
-    "release:patch": "npm run build && npm version patch",
-    "release:minor": "npm run build && npm version minor",
-    "release:major": "npm run build && npm version major"
+    "release:patch": "npm run build && npm version patch && npm publish",
+    "release:minor": "npm run build && npm version minor && npm publish",
+    "release:major": "npm run build && npm version major && npm publish"
   },
   "repository": {
     "type": "git",
