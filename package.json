@@ -2,10 +2,11 @@
   "name": "smoke-effect",
   "version": "1.0.0",
   "description": "Realistic smoke effect using html canvas",
-  "main": "index.js",
+  "main": "dist/smoke.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "parcel build src/smoke.js",    
+    "build": "parcel build src/smoke.js",
+    "release": "npm run build && npm publish"
   },
   "repository": {
     "type": "git",
