@@ -1,0 +1,26 @@
+{
+  "name": "smoke-effect",
+  "version": "1.0.0",
+  "description": "Realistic smoke effect using html canvas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elisiondesign/smoke-effect.git"
+  },
+  "keywords": [
+    "smoke",
+    "effect",
+    "html",
+    "canvas",
+    "library"
+  ],
+  "author": "elision.design",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elisiondesign/smoke-effect/issues"
+  },
+  "homepage": "https://github.com/elisiondesign/smoke-effect#readme"
+}
