@@ -4,7 +4,8 @@
   "description": "Realistic smoke effect using html canvas",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "parcel build src/smoke.js",    
   },
   "repository": {
     "type": "git",
@@ -22,5 +23,12 @@
   "bugs": {
     "url": "https://github.com/elisiondesign/smoke-effect/issues"
   },
-  "homepage": "https://github.com/elisiondesign/smoke-effect#readme"
+  "homepage": "https://github.com/elisiondesign/smoke-effect#readme",
+  "browserslist": "> 0.25%, not dead",
+  "devDependencies": {
+    "@babel/core": "^7.3.4",
+    "@babel/plugin-proposal-class-properties": "^7.3.4",
+    "@babel/preset-env": "^7.3.4",
+    "parcel-bundler": "^1.11.0"
+  }
 }
