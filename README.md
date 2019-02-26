@@ -6,7 +6,7 @@ Realistic smoke effect using html canvas.
 
 ## Usage
 ```html
-<canvas id="canvase"></canvas>
+<canvas id="canvas"></canvas>
 ```
 
 ```js
